@@ -4,7 +4,7 @@ Welcome to the wiki for the Fintech and Cryptocurrency course ECO5037W assignmen
 
 The assignment is based on Fungible Tokens that follow the ERC20 standard. In class we learnt about the ERC721 standard for Non Fungible Tokens (NFTs). You are going to apply many aspects of what we learnt from the tutorials to complete the assignment. After completing the assignment you should have a basic understanding of the ERC20 standard and Decentralized Exchanges (DEXs).
 
-> NOTE: This is an individual assignment and plagiarism will be penalized. Any new concepts will have links provided for you to read through before attempting the assignment. Please read the wiki for each part of the assignment.
+> NOTE: This is an individual assignment and plagiarism will be penalized. Use of AI is allowed but understanding of concepts should be demonstrated by your own comments. Any new concepts will have links provided for you to read through before attempting the assignment. Please read the wiki for each part of the assignment.
 
 ## Requirements
 
