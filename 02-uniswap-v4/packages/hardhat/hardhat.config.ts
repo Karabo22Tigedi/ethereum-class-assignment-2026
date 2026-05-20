@@ -32,9 +32,10 @@ const config: HardhatUserConfig = {
             enabled: true,
             // https://docs.soliditylang.org/en/latest/using-the-compiler.html#optimizer-options
             runs: 200,
-            // Compiles without stack-too-deep.
-            viaIR: true,
           },
+          // Compiles via Yul IR pipeline to avoid stack-too-deep in v4-periphery.
+          // Must be a top-level setting (sibling of `optimizer`), not nested inside it.
+          viaIR: true,
         },
       },
     ],
